@@ -25,5 +25,5 @@
   <a href = "mailto:Yuuritakeoinoue@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yuuri-takeo-inoue-inoue-80b84b165" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-![Snake animation](https://github.com/YuuriTakeo/YuuriTakeo/blob/output/github-contribution-grid-snake.svg) ![pixilart-drawing](https://user-images.githubusercontent.com/102312424/160257009-73d4134b-a539-49f1-9908-e62dfb60a627.gif)
+![Snake animation](https://github.com/YuuriTakeo/YuuriTakeo/blob/output/github-contribution-grid-snake.svg)
  
