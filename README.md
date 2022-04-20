@@ -22,7 +22,7 @@
   
    <img align="center" alt="Yuuri-oracle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   
-  <h2>Estou estudando</h2>
+  <h2>Estudando</h2>
     <img align="center" alt="Yuuri-react" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />       
     <img align="center" alt="Yuuri-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">      
   
