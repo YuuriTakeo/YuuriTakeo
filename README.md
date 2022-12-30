@@ -1,6 +1,6 @@
   ## Olá Meu nome é Yuuri Takeo Inoue
   
-📜 Cursando Análise de sistemas (último ano) 
+📜 Análista de Sistemas Formado na Fatec de Lins
 
 
   <div align="center">
