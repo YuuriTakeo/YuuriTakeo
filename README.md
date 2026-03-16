@@ -27,5 +27,3 @@ Atuo no desenvolvimento de aplicações corporativas utilizando tecnologias mode
 </div>
 
 ---
-
-📌 Este perfil contém projetos pessoais e experimentos de desenvolvimento utilizados para estudo, prática e demonstração de tecnologias.
