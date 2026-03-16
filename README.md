@@ -3,8 +3,6 @@
 💻 Desenvolvedor Full Stack  
 📜 Analista de Sistemas formado pela FATEC de Lins  
 
-Atuo no desenvolvimento de aplicações corporativas utilizando tecnologias modernas de front-end e back-end, com foco em integração de sistemas, automação de processos e melhoria de fluxos operacionais.
-
 ---
 
 <div align="center">
